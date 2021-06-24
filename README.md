@@ -2,4 +2,4 @@
 
 A modern theme made by her.
 
-![Preview](./preview.png)
+![Preview](./Preview.png)
